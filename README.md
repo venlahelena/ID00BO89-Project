@@ -1,2 +1,2 @@
 # ID00BO89-project
-Oulu UAS Course Mobile Application Group Project
+Oulu UAS Course Advanced Web Applications Group Project
